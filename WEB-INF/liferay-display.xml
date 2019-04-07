@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE display PUBLIC "-//Liferay//DTD Display 6.0.0//EN" "http://www.liferay.com/dtd/liferay-display_6_0_0.dtd">
+
+<display>
+	<category name="category.sample">
+		<portlet id="Banking"></portlet>
+		<portlet id="newportletone"></portlet>
+		<portlet id="getuser"></portlet>
+		<portlet id="addadvice"></portlet>
+		<portlet id="getmyadvice"></portlet>
+		<portlet id="getadvice"></portlet>
+		<portlet id="messageviewer"></portlet>
+		<portlet id="simpleaddressbook"></portlet>
+		<portlet id="addressbook"></portlet>
+		<portlet id="push"></portlet>
+		<portlet id="calendartest"></portlet>
+		<portlet id="calendarr"></portlet>
+		<portlet id="treetableadvice"></portlet>
+		<portlet id="confirmwindow"></portlet>
+		<portlet id="feedbackviewer"></portlet>
+		<portlet id="feedbackviewervisited"></portlet>
+		<portlet id="getadviceuser"></portlet>
+	</category>
+</display>
